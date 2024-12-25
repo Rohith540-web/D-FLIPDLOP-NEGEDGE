@@ -62,8 +62,9 @@ Developed by: Rohith V ,RegisterNumber:24900447
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![WhatsApp Image 2024-12-25 at 09 45 09_4a62d7d9](https://github.com/user-attachments/assets/4f8a6cf8-68a4-4e49-af1d-65fe481d7968)
 
-![Screenshot (63)](https://github.com/user-attachments/assets/5dd1c5c8-c91f-4d28-bee1-6574a63c2ff8)
+
 
 
 **RESULTS**
